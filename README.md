@@ -30,8 +30,8 @@ Criar um episódio de podcast 100% gerado por IA, desde o roteiro até a ediçã
 
 ## 📚 Materiais Complementares
  
-- 🧾 [Template no Notion](#https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f)  
-- 🎧 [Editor de Áudio Utilizado](#https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos+profissionais+em+minutos%2C+n%C3%A3o+em+horas.&scenario=custom)  
+- 🧾 [Template no Notion](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f)  
+- 🎧 [Editor de Áudio Utilizado](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos+profissionais+em+minutos%2C+n%C3%A3o+em+horas.&scenario=custom)  
 
 ---
 
